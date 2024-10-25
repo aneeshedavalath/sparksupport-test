@@ -16,5 +16,5 @@ spring:
 
 application:
   username: "admin"
-  password: "$2a$12$BRSRgrr6En594BCG5tjSe.AOtHCbdWp/x5QDbNcarEoIIHmU.KmMq"
+  password: "$2a$12$BRSRgrr6En594BCG5tjSe.AOtHCbdWp/x5QDbNcarEoIIHmU.KmMq" #admin
   role: "ADMIN"
