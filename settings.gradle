@@ -1,0 +1,3 @@
+rootProject.name = 'sparksupport-test'
+
+include 'product'
